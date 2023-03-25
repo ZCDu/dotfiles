@@ -10,3 +10,9 @@
 [submodule "zsh/.zsh-async"]
 	path = zsh/.zsh-async
 	url = https://github.com/mafredri/zsh-async.git
+[submodule "rofi/.config/rofi"]
+	path = rofi/.config/rofi
+	url = git@github.com:ZCDu/rofi.git
+[submodule "dwmscripts/.dwmscripts"]
+	path = dwmscripts/.dwmscripts
+	url = git@github.com:ZCDu/dwm_script.git
