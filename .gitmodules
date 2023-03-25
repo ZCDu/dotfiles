@@ -16,3 +16,6 @@
 [submodule "dwmscripts/.dwmscripts"]
 	path = dwmscripts/.dwmscripts
 	url = git@github.com:ZCDu/dwm_script.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:ZCDu/tmux.git
