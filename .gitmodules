@@ -1,6 +1,3 @@
-[submodule "packernvim/.config/nvim"]
-	path = packernvim/.config/nvim
-	url = https://github.com/ZCDu/luavim.git
 [submodule "ranger/.config/ranger"]
 	path = ranger/.config/ranger
 	url = git@github.com:ZCDu/ranger.git
@@ -25,3 +22,6 @@
 [submodule "lazynvim/.local/share/nvim/lazy/LazyVim"]
 	path = lazynvim/.local/share/nvim/lazy/LazyVim
 	url = https://github.com/ZCDu/Lazyvim.git
+[submodule "packernvim"]
+	path = packernvim
+	url = https://github.com/ZCDu/packernvim.git
