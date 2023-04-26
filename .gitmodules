@@ -1,5 +1,5 @@
-[submodule "nvim/.config/nvim"]
-	path = nvim/.config/nvim
+[submodule "packernvim/.config/nvim"]
+	path = packernvim/.config/nvim
 	url = https://github.com/ZCDu/luavim.git
 [submodule "ranger/.config/ranger"]
 	path = ranger/.config/ranger
