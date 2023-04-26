@@ -19,3 +19,9 @@
 [submodule "tmux"]
 	path = tmux
 	url = git@github.com:ZCDu/tmux.git
+[submodule "lazynvim/.config/nvim"]
+	path = lazynvim/.config/nvim
+	url = https://github.com/ZCDu/Lazyvim-starter.git
+[submodule "lazynvim/.local/share/nvim/lazy/LazyVim"]
+	path = lazynvim/.local/share/nvim/lazy/LazyVim
+	url = https://github.com/ZCDu/Lazyvim.git
