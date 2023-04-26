@@ -1,9 +1,9 @@
 [submodule "ranger/.config/ranger"]
 	path = ranger/.config/ranger
-	url = git@github.com:ZCDu/ranger.git
+	url = https://github.com/ZCDu/ranger.git
 [submodule "zsh/.oh-my-zsh"]
 	path = zsh/.oh-my-zsh
-	url = git@github.com:ZCDu/ohmyzsh.git
+	url = https://github.com/ZCDu/ohmyzsh.git
 [submodule "zsh/.zsh-async"]
 	path = zsh/.zsh-async
 	url = https://github.com/mafredri/zsh-async.git
