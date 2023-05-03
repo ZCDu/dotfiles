@@ -19,3 +19,6 @@
 [submodule "tmux"]
 	path = tmux
 	url = git@github.com:ZCDu/tmux.git
+[submodule "picom/.config/picom"]
+	path = picom/.config/picom
+	url = https://github.com/ZCDu/picom.git
