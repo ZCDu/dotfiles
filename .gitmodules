@@ -1,12 +1,9 @@
-[submodule "nvim/.config/nvim"]
-	path = nvim/.config/nvim
-	url = https://github.com/ZCDu/luavim.git
 [submodule "ranger/.config/ranger"]
 	path = ranger/.config/ranger
-	url = git@github.com:ZCDu/ranger.git
+	url = https://github.com/ZCDu/ranger.git
 [submodule "zsh/.oh-my-zsh"]
 	path = zsh/.oh-my-zsh
-	url = git@github.com:ZCDu/ohmyzsh.git
+	url = https://github.com/ZCDu/ohmyzsh.git
 [submodule "zsh/.zsh-async"]
 	path = zsh/.zsh-async
 	url = https://github.com/mafredri/zsh-async.git
@@ -22,3 +19,12 @@
 [submodule "picom/.config/picom"]
 	path = picom/.config/picom
 	url = https://github.com/ZCDu/picom.git
+[submodule "lazynvim/.config/nvim"]
+	path = lazynvim/.config/nvim
+	url = https://github.com/ZCDu/Lazyvim-starter.git
+[submodule "lazynvim/.local/share/nvim/lazy/LazyVim"]
+	path = lazynvim/.local/share/nvim/lazy/LazyVim
+	url = https://github.com/ZCDu/Lazyvim.git
+[submodule "packernvim"]
+	path = packernvim
+	url = https://github.com/ZCDu/packernvim.git
